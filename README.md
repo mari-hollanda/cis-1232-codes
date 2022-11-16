@@ -1,0 +1,1 @@
+The repository contains the assignments and practical exams from Holland College class Holland College CIS1232 - Intermediate Object Oriented Programming made with Apache NetBeans using Java programming language.
